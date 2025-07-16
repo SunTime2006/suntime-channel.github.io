@@ -1,0 +1,11 @@
+.fab fa-accessible-icon
+h5{
+    text-align: right;
+}
+
+input[type="card"]{
+    width: 150px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
